@@ -1,0 +1,7 @@
+../Core/Src/lcd.c:19:6:lcd_init	40	static
+../Core/Src/lcd.c:101:6:lcd_putc	16	static
+../Core/Src/lcd.c:157:6:lcd_command	16	static
+../Core/Src/lcd.c:215:6:lcd_puts	24	static
+../Core/Src/lcd.c:223:6:lcd_gotoxy	24	static
+../Core/Src/lcd.c:239:6:lcd_definechar	24	static
+../Core/Src/lcd.c:248:6:lcd_clear	8	static
